@@ -1,6 +1,1 @@
-"""
-!We will be covering
-!*Operators
-!NUmbers
-!And so on
-"""
+input_number = input("Enter any number")
