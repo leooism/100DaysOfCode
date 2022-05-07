@@ -1,1 +1,1 @@
-input_number = input("Enter any number")
+print("This is my first commit")
